@@ -2,23 +2,23 @@
 
 ## 🚀 Get Started in 5 Minutes
 
-### Installation
+### Installation (skip for .exe version)
 ```bash
 pip install PySide6 keyboard mss pydirectinput
 python main.py
 ```
 
-**Run as Administrator** for F6 hotkey to work!
+**Run as Administrator** for F6 hotkey to work! (sometimes not required)
 
 ---
 
 ## 📍 Basic Setup (4 Steps)
 
 ### Step 1: Position the Red Box
-- Drag the red box to where zombies spawn
+- Drag the red box to where zombies spawn (background should be black)
 - Click "Lock Box" when positioned correctly
 
-### Step 2: Set the Background Color
+### Step 2: Set the Background Color (suggested leaving as default)
 - Click "Pick from Screen" mode
 - Click the button and click on the spawn background
 - OR enter hex color if you know it
