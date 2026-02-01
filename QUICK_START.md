@@ -17,6 +17,8 @@ python main.py
 ### Step 1: Position the Red Box
 - Drag the red box to where zombies spawn (background should be black)
 - Click "Lock Box" when positioned correctly
+- Refer to this pitcure for help with positioning: https://cdn.discordapp.com/attachments/1150141539444592771/1467591089086005505/EdUcULY.png?ex=6980f036&is=697f9eb6&hm=08144296cd6d88de7a0f5b4f257419d34fde72f207b513283275699c5f63be96&animated=true
+- The box should be above "SELLECT UPGRADE" but under the gun name, also use crosshair should go right above the box (making sure it doesnt go inside the box)
 
 ### Step 2: Set the Background Color (suggested leaving as default)
 - Click "Pick from Screen" mode
